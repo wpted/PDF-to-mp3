@@ -8,4 +8,4 @@ language = "en"
 my_obj = gTTS(text=my_text, lang=language, slow=False)
 my_obj.save("hello_world.mp3")
 
-playsound("hello_world.mp3")
+playsound("../pdf_to_audio/hello_world.mp3")
