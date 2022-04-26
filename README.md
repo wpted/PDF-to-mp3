@@ -3,7 +3,7 @@
 ***
 
 This is a simple project that uses PyPDF2 and gTTs, that takes un-encrypted pdf as input and speaks the file content
-out loud.
+out loud in English.
 
 Just for fun!
 
